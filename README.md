@@ -1,2 +1,2 @@
 # viaggiodistruzione
-La mitica fanzine!
+I sorgenti del sito della mitica fanzine!
